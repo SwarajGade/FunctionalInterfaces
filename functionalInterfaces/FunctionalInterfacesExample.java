@@ -11,6 +11,7 @@ import java.util.function.Supplier;
  * The FunctionalInterfacesExample class demonstrates the use of built-in
  * functional interfaces in Java such as Consumer, Predicate, Function, and
  * Supplier.
+ * (https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/function/package-summary.html)
  */
 public class FunctionalInterfacesExample {
 
